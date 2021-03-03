@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- enlace con archivo .xsl-->
+<?xml-stylesheet href="carreras.xsl" type="text/xsl"?>
+
+<carreras>
+	<carrera>
+		<nombre>NEGU TRAIL 1</nombre>
+		<fecha>2021-02-07</fecha>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>17</kilometros>
+		<imagen>negu-trail.jpg</imagen>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+	<carrera>
+		<nombre>NEGU TRAIL 2</nombre>
+		<fecha>2021-02-07</fecha>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>12</kilometros>
+		<imagen>negu-trail.jpg</imagen>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+	<carrera>
+		<nombre>NEGU TRAIL 3</nombre>
+		<fecha>2021-02-07</fecha>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>17</kilometros>
+		<imagen>negu-trail.jpg</imagen>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+	<carrera>
+		<nombre>NEGU TRAIL 4</nombre>
+		<fecha>2021-02-07</fecha>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>12</kilometros>
+		<imagen>negu-trail.jpg</imagen>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+	<carrera>
+		<nombre>NEGU TRAIL 5</nombre>
+		<fecha>2021-02-07</fecha>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>17</kilometros>
+		<imagen>negu-trail.jpg</imagen>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+	<carrera>
+		<nombre>NEGU TRAIL 6</nombre>
+		<fecha>2021-02-07</fecha>
+		<sitio provincia="Gipuzkoa">Berastegi</sitio>
+		<kilometros>12</kilometros>
+		<imagen>negu-trail.jpg</imagen>
+		<informacion tipo="web">http://www.rockthesport.com/es/evento/negu-trail</informacion>
+	</carrera>
+</carreras>

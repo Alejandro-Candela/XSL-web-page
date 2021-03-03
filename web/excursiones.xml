@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- enlace con archivo .xsl-->
+<?xml-stylesheet href="excursiones.xsl" type="text/xsl"?>
+
+<excursiones>
+	<excursion>
+		<descripcion dificultad="media" tipo="circular">
+			<ruta>Gorbea por Saldropo</ruta>
+			<distancia>15</distancia>
+			<desnivel>950</desnivel>
+			<tiempo>3:45</tiempo>
+		</descripcion>
+		<salida>
+			<lugar>Estación de autobuses</lugar>
+			<dia>2021-03-01</dia>
+			<hora>8:00:00</hora>
+		</salida>
+		<precio>20</precio>
+		<plazas>60</plazas>
+	</excursion>
+	<excursion>
+		<descripcion dificultad="alta" tipo="circular">
+			<ruta>Gorbea por Saldropo</ruta>
+			<distancia>15</distancia>
+			<desnivel>950</desnivel>
+			<tiempo>3:45</tiempo>
+		</descripcion>
+		<salida>
+			<lugar>Estación de autobuses</lugar>
+			<dia>2021-03-01</dia>
+			<hora>8:00:00</hora>
+		</salida>
+		<precio>20</precio>
+		<plazas>60</plazas>
+	</excursion>
+	<excursion>
+		<descripcion dificultad="baja" tipo="circular">
+			<ruta>Gorbea por Saldropo</ruta>
+			<distancia>15</distancia>
+			<desnivel>950</desnivel>
+			<tiempo>3:45</tiempo>
+		</descripcion>
+		<salida>
+			<lugar>Estación de autobuses</lugar>
+			<dia>2021-03-01</dia>
+			<hora>8:00:00</hora>
+		</salida>
+		<precio>20</precio>
+		<plazas>60</plazas>
+	</excursion>
+	<excursion>
+		<descripcion dificultad="media" tipo="circular">
+			<ruta>Gorbea por Saldropo</ruta>
+			<distancia>15</distancia>
+			<desnivel>950</desnivel>
+			<tiempo>3:45</tiempo>
+		</descripcion>
+		<salida>
+			<lugar>Estación de autobuses</lugar>
+			<dia>2021-03-01</dia>
+			<hora>8:00:00</hora>
+		</salida>
+		<precio>20</precio>
+		<plazas>60</plazas>
+	</excursion>
+</excursiones>

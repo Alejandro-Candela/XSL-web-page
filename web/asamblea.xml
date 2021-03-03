@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- enlace con archivo .xsl-->
+<?xml-stylesheet href="asamblea.xsl" type="text/xsl"?>
+<asambleas>
+	<asamblea tipo="ordinaria">
+		<ubicacion>Sede del club</ubicacion>
+		<convocatoria hora="20:00:00">2020-12-01</convocatoria>
+		<orden_dia>
+			<tema>Lectura y aprobación del acta anterior</tema>
+			<tema>Aprobación de Cuentas Anuales</tema>
+			<tema>Aprobación Memoria Deportiva</tema>
+			<tema>Plan de actuación</tema>
+			<tema>Aprobación de los presupuestos</tema>
+			<tema>Propuestas a la Asamblea</tema>
+		</orden_dia>
+	</asamblea>
+	<asamblea tipo="extraordinaria">
+		<ubicacion>Sede del club</ubicacion>
+		<convocatoria hora="20:00:00">2021-04-01</convocatoria>
+		<orden_dia>
+			<tema>Lectura y aprobación del acta anterior</tema>
+			<tema>Aprobación de Cuentas Anuales</tema>
+			<tema>Aprobación Memoria Deportiva</tema>
+			<tema>Plan de actuación</tema>
+			<tema>Aprobación de los presupuestos</tema>
+			<tema>Propuestas a la Asamblea</tema>
+		</orden_dia>
+	</asamblea>
+</asambleas>
